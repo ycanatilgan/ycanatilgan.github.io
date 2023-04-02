@@ -10,9 +10,16 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Welcome to my portfolio page
+# Welcome to My Portfolio Page!
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I am a developer with 3 years of experience. 2+ years of this was game development. I am a person who likes to learn and develop by myself. Since high school, I have
+had many small-scale enterprises and studies with my
+interest in technology. During my years at college, I
+decided what I wanted to do and developed myself as a
+developer. I am currently making hypercasual&casual
+and Unity Asset projects for my portfolio and publishing
+them on YouTube&GitHub.
+
 
 ## Header 2
 
