@@ -101,7 +101,7 @@ end
 
 ### Small image
 
-![Octocat](/assets/img/pp.jpg)
+<img src="/assets/img/Unity-New-Logo.png" width="200" height="200">
 
 <!--### Large image
 
