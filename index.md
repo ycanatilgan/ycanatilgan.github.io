@@ -101,7 +101,8 @@ end
 
 ### Small image
 
-<img src="/assets/img/Unity-New-Logo.png" width="200" height="200">
+Unity
+<img src="/assets/img/Unity-New-Logo.png" width="160" height="90">
 
 <!--### Large image
 
