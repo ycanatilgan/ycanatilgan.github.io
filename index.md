@@ -96,21 +96,12 @@ with Java/Android Studio. Freelance job.</dd>
 <img src="/assets/img/android-studio.png" width="100" height="100">
 <img src="/assets/img/visualstudio.png" width="100" height="100">
 <img src="/assets/img/photon.jpeg" width="100" height="100">
-<img src="/assets/img/github.jpeg" width="100" height="100">
-<img src="/assets/img/firebase.png" width="100" height="100">s
+<img src="/assets/img/github.png" width="100" height="100">
+<img src="/assets/img/firebase.png" width="100" height="100">
 <img src="/assets/img/microsoft-office.png" width="100" height="100">
 <img src="/assets/img/wordpress.png" width="100" height="100">
 
 ### Frameworks&Languages
-
-<img src="/assets/img/Unity.png" width="100" height="100">
-<img src="/assets/img/android-studio.png" width="100" height="100">
-<img src="/assets/img/visualstudio.png" width="100" height="100">
-<img src="/assets/img/photon.jpeg" width="100" height="100">
-<img src="/assets/img/github.jpeg" width="100" height="100">
-<img src="/assets/img/microsoft-office.png" width="100" height="100">
-<img src="/assets/img/wordpress.png" width="100" height="100">
-<img src="/assets/img/premiere.jpeg" width="100" height="100">
 
 * * *
 
