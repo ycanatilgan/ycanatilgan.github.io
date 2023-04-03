@@ -23,6 +23,8 @@ passion for software development and started learning it. After this
 period, I had a couple of chances to work and develop my skills in 
 the professional field. 
 
+* * *
+
 ### Past Experience
 
 <d2>
@@ -57,6 +59,8 @@ with Java/Android Studio. Freelance job.</dd>
 
 </d2>
 
+* * *
+
 ## Game developer skills
 
 *   Unity
@@ -84,8 +88,6 @@ with Java/Android Studio. Freelance job.</dd>
 *   AI opponents
 *   Mixamo
 
-### There's a horizontal rule below this.
-
 * * *
 
 ### Programs&Services
@@ -109,6 +111,8 @@ with Java/Android Studio. Freelance job.</dd>
 <img src="/assets/img/microsoft-office.png" width="100" height="100">
 <img src="/assets/img/wordpress.png" width="100" height="100">
 <img src="/assets/img/premiere.jpeg" width="100" height="100">
+
+* * *
 
 ### Portfolio
 
