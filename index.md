@@ -11,7 +11,7 @@ had many small-scale enterprises and studies with my
 interest in technology. During my years at college, I
 decided what I wanted to do and developed myself as a
 developer. I am currently making hypercasual&casual,
-Unity Asset and ASP.NET projects for my portfolio and publishing
+Unity Asset and Android projects for my portfolio and publishing
 them on YouTube&GitHub. I love learning new things by myself 
 and trying my skills on a project. 
 
@@ -77,6 +77,15 @@ with Java/Android Studio. Freelance job.</dd>
 *   Mixamo
 *   Plastic SCM and Git
 
+### Mobile Developer skills
+
+*   Java
+*   Kotlin
+*   Android Studio
+*   Emulators
+*   XML
+*   Firebase
+
 ### .NET&Web Developer skills
 
 *   C#
@@ -89,14 +98,6 @@ with Java/Android Studio. Freelance job.</dd>
 *   Photon multiplayer service
 *   AI opponents
 *   Mixamo
-
-### Mobile Developer skills
-
-*   Java
-*   Android Studio
-*   Emulators
-*   XML
-*   Firebase
 
 * * *
 
