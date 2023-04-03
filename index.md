@@ -30,7 +30,7 @@ the professional field.
 <d2>
 <dt>EscApp Studio (2020-2022)</dt>
 <dd>Game developer. Worked with publishers and tested 30+ hyper-casual prototypes.</dd>
-<a href="https://play.google.com/store/apps/dev?id=6637869039033138353&hl=en_US&gl=US">Games</a>
+<dd><a href="https://play.google.com/store/apps/dev?id=6637869039033138353&hl=en_US&gl=US">Games</a></dd>
 
 <dt>Kocabey Makina (2022)</dt>
 <dd>Intern. Developed WPF internal control application. Used Firebase and MSSQL.</dd>
@@ -41,12 +41,14 @@ with Java/Android Studio. Freelance job.</dd>
 
 <dt>Donanım Günlüğü - CNN Turk Technology (2017-2019)</dt>
 <dd>Editor at Donanım Günlüğü. My news was also published on CNN Turk due to an agreement.</dd>
-<a href="https://donanimgunlugu.com/author/yigitcanatilgan">News</a>
+<dd><a href="https://donanimgunlugu.com/author/yigitcanatilgan">News</a></dd>
 
 <dt>News&Video&Social Media Editor (-2017)</dt>
 <dd>I have an experience as an editor on many other websites such as Otopark.com, Scroll.com.tr, and Mavi Ekran.</dd>
 
 </d2>
+
+* * *
 
 ### Education
 
@@ -55,13 +57,13 @@ with Java/Android Studio. Freelance job.</dd>
 <dd>Mechanical Engineering</dd>
 
 <dt>Piri Reis High School (2013-2017)</dt>
-<dd></dd>
+<dd>-</dd>
 
 </d2>
 
 * * *
 
-## Game developer skills
+### Game developer skills
 
 *   Unity
 *   C#
@@ -75,7 +77,7 @@ with Java/Android Studio. Freelance job.</dd>
 *   Mixamo
 *   Plastic SCM and Git
 
-## .NET&Web Developer skills
+### .NET&Web Developer skills
 
 *   C#
 *   ASP.NET Core 6.0
@@ -87,6 +89,14 @@ with Java/Android Studio. Freelance job.</dd>
 *   Photon multiplayer service
 *   AI opponents
 *   Mixamo
+
+### Mobile Developer skills
+
+*   Java
+*   Android Studio
+*   Emulators
+*   XML
+*   Firebase
 
 * * *
 
