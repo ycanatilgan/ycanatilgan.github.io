@@ -45,7 +45,7 @@ with Java/Android Studio. Freelance job.</dd>
 
 <dt>News&Video&Social Media Editor (-2017)</dt>
 <dd>I have an experience as an editor on many other websites such as Otopark.com, Scroll.com.tr, and Mavi Ekran.</dd>
-
+<dd></dd>
 </d2>
 
 * * *
@@ -58,7 +58,7 @@ with Java/Android Studio. Freelance job.</dd>
 
 <dt>Piri Reis High School (2013-2017)</dt>
 <dd>-</dd>
-
+<dd></dd>
 </d2>
 
 * * *
