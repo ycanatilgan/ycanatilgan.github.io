@@ -16,8 +16,8 @@ learn and develop by myself. Since high school, I have
 had many small-scale enterprises and studies with my
 interest in technology. During my years at college, I
 decided what I wanted to do and developed myself as a
-developer. I am currently making hypercasual&casual,
-Unity Asset and ASP.NET projects for my portfolio and publishing
+developer. I am currently making hypercasual&casual
+and Unity Asset projects for my portfolio and publishing
 them on YouTube&GitHub.
 
 
@@ -101,24 +101,19 @@ end
 
 ### Small image
 
-<img src="/assets/img/Unity.png" width="100" height="100">
-<img src="/assets/img/android-studio.png" width="100" height="100">
-<img src="/assets/img/microsoft-office.png" width="100" height="100">
-<img src="/assets/img/visualstudio.png" width="100" height="100">
-<img src="/assets/img/visualstudio.png" width="100" height="100">
-<img src="/assets/img/photon.jpeg" width="100" height="100">
 Unity
+<img src="/assets/img/Unity-New-Logo.png" width="160" height="90">
 
 <!--### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)-->
 
 
-### Past Experience
+### Definition lists can be used with HTML syntax.
 
 <dl>
-<dt>EscApp Studio (2020-2022)</dt>
-<dd>Game developer. Worked with publishers and tested 30+ hyper-casual prototypes.</dd>
+<dt>Name</dt>
+<dd>Godzilla</dd>
 <dt>Born</dt>
 <dd>1952</dd>
 <dt>Birthplace</dt>
