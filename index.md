@@ -2,7 +2,9 @@
 layout: default
 ---
 
-# Welcome to My Portfolio Page!
+[Portfolio Page](./another-page.html).
+
+# About Me
 
 I am a developer with 3 years of experience. 2+ years of
 this was game development. I am a person who likes to
