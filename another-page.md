@@ -4,7 +4,7 @@ layout: default
 
 ## My Portfolio
 
-You can check some of my past works in this page!
+You can check some of my past works in this page! More to come!
 
 ### Games
 
